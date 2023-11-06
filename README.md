@@ -14,18 +14,3 @@ Top ranked OpenAI GPTs, ranked and sorted by [AgentOps](https://agentops.ai)
 
 
 (More coming soon...)
-
-[Assistants](https://platform.openai.com/docs/api-reference/assistants)
-| Name  | Documentation  | Description  |
-|---|---|---|
-|The Assistant Object|[Link](https://platform.openai.com/docs/api-reference/assistants/object)|Represents an assistant that can call the model and use tools.|
-|Create Assistant|[Link](https://platform.openai.com/docs/api-reference/assistants/createAssistant)|Create an assistant with a model and instructions.|
-|Retrieve Assistant|[Link](https://platform.openai.com/docs/api-reference/assistants/getAssistant)|Retrieves an assistant.|
-|Modify Assistant|[Link](https://platform.openai.com/docs/api-reference/assistants/modifyAssistant)|Modifies an assistant.|
-|Delete Assistant|[Link](https://platform.openai.com/docs/api-reference/assistants/deleteAssistant)|Delete an assistant.|
-|List Assistant|[Link](https://platform.openai.com/docs/api-reference/assistants/listAssistants)|Returns a list of assistants.|
-|The Assistant file object|[Link](https://platform.openai.com/docs/api-reference/assistants/file-object)|The identifier, which can be referenced in API endpoints.|
-|Create Assistant file|[Link](https://platform.openai.com/docs/api-reference/assistants/createAssistantFile)|Create an assistant file by attaching a File to an assistant.|
-|Retrieve Assistant file|[Link](https://platform.openai.com/docs/api-reference/assistants/getAssistantFile)|Retrieves an AssistantFile.|
-|Delete Assistant file|[Link](https://platform.openai.com/docs/api-reference/assistants/deleteAssistantFile)|Delete an assistant file.|
-|List Assistant files|[Link](https://platform.openai.com/docs/api-reference/assistants/listAssistantFiles)|Returns a list of assistant files.|
