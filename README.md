@@ -17,6 +17,7 @@ Top ranked OpenAI GPTs, ranked and sorted by [AgentOps](https://agentops.ai)
 
 [Assistants](https://platform.openai.com/docs/api-reference/assistants)
 | Name  | Documentation  | Description  |
+|---|---|---|
 |The Assistant Object|[Link](https://platform.openai.com/docs/api-reference/assistants/object)|Represents an assistant that can call the model and use tools.|
 |Create Assistant|[Link](https://platform.openai.com/docs/api-reference/assistants/createAssistant)|Create an assistant with a model and instructions.|
 |Retrieve Assistant|[Link](https://platform.openai.com/docs/api-reference/assistants/getAssistant)|Retrieves an assistant.|
