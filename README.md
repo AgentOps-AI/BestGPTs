@@ -3,6 +3,9 @@ Top ranked OpenAI GPTs, ranked and sorted by [AgentOps](https://agentops.ai)
 
 | Name  | Image  | Description  | Link| 
 |---|---|---|---|
+| Dalle| <<img width="487" alt="Screenshot 2023-11-07 at 11 45 18 AM" src="https://github.com/AgentOps-AI/BestGPTs/assets/123203442/cc56098b-84ba-4d9c-92b4-f1b261c4580d"> | Let me turn your imagination into imagery | [Link](https://chat.openai.com/g/g-2fkFE8rbu-dall-e)
+| Data Analysis| <img width="481" alt="Screenshot 2023-11-07 at 11 46 42 AM" src="https://github.com/AgentOps-AI/BestGPTs/assets/123203442/1a3e35b9-7030-4c6d-b7a2-6d0f0906817f"> | Drop in any files and I can help analyze and visualize your data | [Link]([https://chat.openai.com/g/g-2fkFE8rbu-dall-e](https://chat.openai.com/g/g-HMNcP6w7d-data-analysis)
+| ChatGPT Classic| <img width="481" alt="Screenshot 2023-11-07 at 11 46 42 AM" src="https://github.com/AgentOps-AI/BestGPTs/assets/123203442/1a3e35b9-7030-4c6d-b7a2-6d0f0906817f"> | Drop in any files and I can help analyze and visualize your data | [Link]([https://chat.openai.com/g/g-2fkFE8rbu-dall-e](https://chat.openai.com/g/g-HMNcP6w7d-data-analysis)
 | Code.org Lesson Planner  | <img width="220" alt="image" src="https://github.com/AgentOps-AI/BestGPTs/assets/14807319/dcbd56ed-7992-4a8e-833c-584e1e8835cd"> | Providing engaging teaching experiences for middles schoolers |
 | CanvaGPT  | <img width="224" alt="image" src="https://github.com/AgentOps-AI/BestGPTs/assets/14807319/6b03c396-9595-4aa6-84c8-6ec576036a4e"> | Design what you want with natural language |
 | Zapier GPT  |  <img width="173" alt="image" src="https://github.com/AgentOps-AI/BestGPTs/assets/14807319/357d3758-74fc-491c-a802-468588bb7437"> | Connection thousands of Zapier integrations with a chat interface |
