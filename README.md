@@ -1,8 +1,8 @@
 # BestGPTs
 Top ranked OpenAI GPTs, ranked and sorted by [AgentOps](https://agentops.ai)
 
-| Name  | Image  | Description  |
-|---|---|---|
+| Name  | Image  | Description  | Link| 
+|---|---|---|---|
 | Code.org Lesson Planner  | <img width="220" alt="image" src="https://github.com/AgentOps-AI/BestGPTs/assets/14807319/dcbd56ed-7992-4a8e-833c-584e1e8835cd"> | Providing engaging teaching experiences for middles schoolers |
 | CanvaGPT  | <img width="224" alt="image" src="https://github.com/AgentOps-AI/BestGPTs/assets/14807319/6b03c396-9595-4aa6-84c8-6ec576036a4e"> | Design what you want with natural language |
 | Zapier GPT  |  <img width="173" alt="image" src="https://github.com/AgentOps-AI/BestGPTs/assets/14807319/357d3758-74fc-491c-a802-468588bb7437"> | Connection thousands of Zapier integrations with a chat interface |
