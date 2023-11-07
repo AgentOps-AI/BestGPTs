@@ -1,6 +1,8 @@
 # BestGPTs
 Top ranked OpenAI GPTs, ranked and sorted by [AgentOps](https://agentops.ai)
 
+
+
 | Name  | Image  | Description  | Link| 
 |---|---|---|---|
 | Dalle| <img width="487" alt="Screenshot 2023-11-07 at 11 45 18 AM" src="https://github.com/AgentOps-AI/BestGPTs/assets/123203442/cc56098b-84ba-4d9c-92b4-f1b261c4580d"> | Let me turn your imagination into imagery | [Link](https://chat.openai.com/g/g-2fkFE8rbu-dall-e)
@@ -9,12 +11,12 @@ Top ranked OpenAI GPTs, ranked and sorted by [AgentOps](https://agentops.ai)
 | Game Time| ![Screenshot 2023-11-07 at 11 53 23 AM](https://github.com/AgentOps-AI/BestGPTs/assets/123203442/a443cfcc-0779-46bf-b30b-fa2f906e73e4)| I can quickly explain board games or card games to players of any age. Let the games begin! | [Link](https://chat.openai.com/g/g-Sug6mXozT-game-time)
 | The Negotiator| ![Screenshot 2023-11-07 at 11 56 38 AM](https://github.com/AgentOps-AI/BestGPTs/assets/123203442/e78e897d-836c-4ebc-beaf-2ee85e307afa)| I'll help you advocate for yourself and get better outcomes. Become a great negotiator. | [Link](https://chat.openai.com/g/g-TTTAK9GuS-the-negotiator)
 | Creative Writing Coach| ![Screenshot 2023-11-07 at 11 53 23 AM](https://github.com/AgentOps-AI/BestGPTs/assets/123203442/a443cfcc-0779-46bf-b30b-fa2f906e73e4)| I can quickly explain board games or card games to players of any age. Let the games begin! | [Link](https://chat.openai.com/g/g-Sug6mXozT-game-time)
-| Cosmic Dream| [Screenshot 2023-11-07 at 11 58 33 AM](https://github.com/AgentOps-AI/BestGPTs/assets/123203442/3fc644d3-ff97-4078-8783-f33c41cb6c14)| Visionary painter of digital wonder! | [Link](https://chat.openai.com/g/g-FdMHL1sNo-cosmic-dream)!
+| Cosmic Dream| ![Screenshot 2023-11-07 at 12 12 25 PM](https://github.com/AgentOps-AI/BestGPTs/assets/123203442/e180e746-d3f8-4634-856d-4cd29b7291cf)| Visionary painter of digital wonder! | [Link](https://chat.openai.com/g/g-FdMHL1sNo-cosmic-dream)!
 | Tech Support Advisor| ![Screenshot 2023-11-07 at 11 59 30 AM](https://github.com/AgentOps-AI/BestGPTs/assets/123203442/32d8e339-f279-4c64-8d3a-ac0e75fc04f1)| From setting up a printer to troubleshooting a device, I’m here to help you step-by-step. | [Link](https://chat.openai.com/g/g-WKIaLGGem-tech-support-advisor)
 | Coloring Book Hero| ![Screenshot 2023-11-07 at 12 04 02 PM](https://github.com/AgentOps-AI/BestGPTs/assets/123203442/8b0c5069-34d0-41b6-ad5c-12766354f946)| Take any idea and turn it into whimsical coloring book pages | [Link](https://chat.openai.com/g/g-DerYxX7rA-coloring-book-hero)
 | Laundry Buddy| ![Screenshot 2023-11-07 at 12 05 43 PM](https://github.com/AgentOps-AI/BestGPTs/assets/123203442/fd18ab04-aadc-4ca9-bf88-912d7770e8d4)| Ask me anything about stains, settings, sorting and everything laundry. | [Link](https://chat.openai.com/g/g-QrGDSn90Q-laundry-buddy)
 | Sous Chef| ![Screenshot 2023-11-07 at 12 08 13 PM](https://github.com/AgentOps-AI/BestGPTs/assets/123203442/20508741-9ddd-40f5-910f-7230398cd2dc)| I’ll give you recipes based on the foods you love and ingredients you have. | [Link](https://chat.openai.com/g/g-3VrgJ1GpH-sous-chef)
-| Sticker Whiz| ![Screenshot 2023-11-07 at 12 09 33 PM](https://github.com/AgentOps-AI/BestGPTs/assets/123203442/a2e1577d-2a19-4601-9520-6391441900c9)| I'll help turn your wildest dreams into die-cut stickers, shipped right to your door. | [Link](https://chat.openai.com/g/g-gPRWpLspC-sticker-whiz)
+| Sticker Whiz| ![Screenshot 2023-11-07 at 12 12 59 PM](https://github.com/AgentOps-AI/BestGPTs/assets/123203442/7b1f9f67-9a02-4a7a-9d61-6baf7d8c6d6d)| I'll help turn your wildest dreams into die-cut stickers, shipped right to your door. | [Link](https://chat.openai.com/g/g-gPRWpLspC-sticker-whiz)
 | Math Mentor| ![Screenshot 2023-11-07 at 12 10 10 PM](https://github.com/AgentOps-AI/BestGPTs/assets/123203442/7eba6bc5-66a8-403c-9722-af06d700897f)| I help parents help their kids with math. Need a 9pm refresher on geometry proofs? I’m here for you. | [Link](https://chat.openai.com/g/g-ENhijiiwK-math-mentor)
 | Mocktail Mixologist| ![Screenshot 2023-11-07 at 12 10 51 PM](https://github.com/AgentOps-AI/BestGPTs/assets/123203442/2d2be913-b373-4fc2-98ee-643296b7c932)| I’ll make any party a blast with mocktail recipes with whatever ingredients you have on hand. | [Link](https://chat.openai.com/g/g-PXlrhc1MV-mocktail-mixologist)
 | GenZ 4 Meme| ![Screenshot 2023-11-07 at 12 11 27 PM](https://github.com/AgentOps-AI/BestGPTs/assets/123203442/872ead0f-7b9a-48e3-992c-504f9772db65)| i help u understand the lingo & the latest memes | [Link](https://chat.openai.com/g/g-OCOyXYJjW-genz-4-meme)
