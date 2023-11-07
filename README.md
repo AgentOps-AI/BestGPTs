@@ -13,18 +13,11 @@ Top ranked OpenAI GPTs, ranked and sorted by [AgentOps](https://agentops.ai)
 | Tech Support Advisor| ![Screenshot 2023-11-07 at 11 59 30 AM](https://github.com/AgentOps-AI/BestGPTs/assets/123203442/32d8e339-f279-4c64-8d3a-ac0e75fc04f1)| From setting up a printer to troubleshooting a device, I’m here to help you step-by-step. | [Link](https://chat.openai.com/g/g-WKIaLGGem-tech-support-advisor)
 | Coloring Book Hero| ![Screenshot 2023-11-07 at 12 04 02 PM](https://github.com/AgentOps-AI/BestGPTs/assets/123203442/8b0c5069-34d0-41b6-ad5c-12766354f946)| Take any idea and turn it into whimsical coloring book pages | [Link](https://chat.openai.com/g/g-DerYxX7rA-coloring-book-hero)
 | Laundry Buddy| ![Screenshot 2023-11-07 at 12 05 43 PM](https://github.com/AgentOps-AI/BestGPTs/assets/123203442/fd18ab04-aadc-4ca9-bf88-912d7770e8d4)| Ask me anything about stains, settings, sorting and everything laundry. | [Link](https://chat.openai.com/g/g-QrGDSn90Q-laundry-buddy)
-
-
-
-| Sous Chef| ![Screenshot 2023-11-07 at 12 06 03 PM](https://github.com/AgentOps-AI/BestGPTs/assets/123203442/0673337c-d325-47bb-a7df-24c10cd361e4)| I’ll give you recipes based on the foods you love and ingredients you have. | [Link](https://chat.openai.com/g/g-3VrgJ1GpH-sous-chef)
-| Sticker Whiz| ![Screenshot 2023-11-07 at 11 53 23 AM](https://github.com/AgentOps-AI/BestGPTs/assets/123203442/a443cfcc-0779-46bf-b30b-fa2f906e73e4)| I can quickly explain board games or card games to players of any age. Let the games begin! | [Link](https://chat.openai.com/g/g-Sug6mXozT-game-time)
-| Math Mentor| ![Screenshot 2023-11-07 at 11 53 23 AM](https://github.com/AgentOps-AI/BestGPTs/assets/123203442/a443cfcc-0779-46bf-b30b-fa2f906e73e4)| I can quickly explain board games or card games to players of any age. Let the games begin! | [Link](https://chat.openai.com/g/g-Sug6mXozT-game-time)
-| Mocktail Mixologist| ![Screenshot 2023-11-07 at 11 53 23 AM](https://github.com/AgentOps-AI/BestGPTs/assets/123203442/a443cfcc-0779-46bf-b30b-fa2f906e73e4)| I can quickly explain board games or card games to players of any age. Let the games begin! | [Link](https://chat.openai.com/g/g-Sug6mXozT-game-time)
-| GenZ 4 Meme| ![Screenshot 2023-11-07 at 11 53 23 AM](https://github.com/AgentOps-AI/BestGPTs/assets/123203442/a443cfcc-0779-46bf-b30b-fa2f906e73e4)| I can quickly explain board games or card games to players of any age. Let the games begin! | [Link](https://chat.openai.com/g/g-Sug6mXozT-game-time)
-
-
-
-
+| Sous Chef| ![Screenshot 2023-11-07 at 12 08 13 PM](https://github.com/AgentOps-AI/BestGPTs/assets/123203442/20508741-9ddd-40f5-910f-7230398cd2dc)| I’ll give you recipes based on the foods you love and ingredients you have. | [Link](https://chat.openai.com/g/g-3VrgJ1GpH-sous-chef)
+| Sticker Whiz| ![Screenshot 2023-11-07 at 12 09 33 PM](https://github.com/AgentOps-AI/BestGPTs/assets/123203442/a2e1577d-2a19-4601-9520-6391441900c9)| I'll help turn your wildest dreams into die-cut stickers, shipped right to your door. | [Link](https://chat.openai.com/g/g-gPRWpLspC-sticker-whiz)
+| Math Mentor| ![Screenshot 2023-11-07 at 12 10 10 PM](https://github.com/AgentOps-AI/BestGPTs/assets/123203442/7eba6bc5-66a8-403c-9722-af06d700897f)| I help parents help their kids with math. Need a 9pm refresher on geometry proofs? I’m here for you. | [Link](https://chat.openai.com/g/g-ENhijiiwK-math-mentor)
+| Mocktail Mixologist| ![Screenshot 2023-11-07 at 12 10 51 PM](https://github.com/AgentOps-AI/BestGPTs/assets/123203442/2d2be913-b373-4fc2-98ee-643296b7c932)| I’ll make any party a blast with mocktail recipes with whatever ingredients you have on hand. | [Link](https://chat.openai.com/g/g-PXlrhc1MV-mocktail-mixologist)
+| GenZ 4 Meme| ![Screenshot 2023-11-07 at 12 11 27 PM](https://github.com/AgentOps-AI/BestGPTs/assets/123203442/872ead0f-7b9a-48e3-992c-504f9772db65)| i help u understand the lingo & the latest memes | [Link](https://chat.openai.com/g/g-OCOyXYJjW-genz-4-meme)
 | Code.org Lesson Planner  | <img width="220" alt="image" src="https://github.com/AgentOps-AI/BestGPTs/assets/14807319/dcbd56ed-7992-4a8e-833c-584e1e8835cd"> | Providing engaging teaching experiences for middles schoolers |
 | CanvaGPT  | <img width="224" alt="image" src="https://github.com/AgentOps-AI/BestGPTs/assets/14807319/6b03c396-9595-4aa6-84c8-6ec576036a4e"> | Design what you want with natural language |
 | Zapier GPT  |  <img width="173" alt="image" src="https://github.com/AgentOps-AI/BestGPTs/assets/14807319/357d3758-74fc-491c-a802-468588bb7437"> | Connection thousands of Zapier integrations with a chat interface |
