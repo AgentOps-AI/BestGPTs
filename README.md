@@ -5,6 +5,7 @@ Top ranked OpenAI GPTs, ranked and sorted by [AgentOps](https://agentops.ai)
 
 | Name  | Image  | Description  | Link| 
 |---|---|---|---|
+| GPT Idea Roller | <img width="284" alt="image" src="https://github.com/AgentOps-AI/BestGPTs/assets/30956809/c104e9bc-73f9-4b17-9f50-9a6e891a6363"> | Sparking joy with AI brainwaves |
 | NomadGPT| <img width="514" alt="Screenshot 2023-11-08 at 5 36 14 PM" src="https://github.com/AgentOps-AI/BestGPTs/assets/123203442/cf2d05e9-f23d-4e3f-9119-20f30267427e"> | NomadGPT helps you become a digital nomad and find you the best places in the world to live and work remotely.| [Link](https://chat.openai.com/g/g-0k9rvxdJn-nomadgpt)
 | Alpha: Agent Matchmaker (By [Staf.ai](https://staf.ai/))| <img width="464" alt="Screenshot 2023-11-08 at 3 33 28 PM" src="https://github.com/AgentOps-AI/BestGPTs/assets/123203442/9d30c3ed-fa1a-4fde-959c-a057f1061cfa"> | Find Your Dream Agent | [Link](https://chat.openai.com/g/g-uk2eWahlo-agent-matchmaker)
 | Dalle| <img width="487" alt="Screenshot 2023-11-07 at 11 45 18 AM" src="https://github.com/AgentOps-AI/BestGPTs/assets/123203442/cc56098b-84ba-4d9c-92b4-f1b261c4580d"> | Let me turn your imagination into imagery | [Link](https://chat.openai.com/g/g-2fkFE8rbu-dall-e)
