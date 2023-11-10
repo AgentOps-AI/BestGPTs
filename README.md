@@ -16,6 +16,8 @@ Top ranked OpenAI GPTs, ranked and sorted by [AgentOps](https://agentops.ai)
 | Grimoire |  | Coding Wizard - 100x Engineer. Build a website with a sentence. Built for a new era of creativity: Prompt-gramming | [Link](https://chat.openai.com/g/g-n7Rs0IK86-grimoire) |
 | Athena |  | A witty robot philosopher from 2521 | [Link](https://chat.openai.com/g/g-SNLCL5HGB-athena) |
 | ChatXGB |  | GPT chatbot that helps you with technical questions related to XGBoost algorithm and library | [Link](https://chat.openai.com/g/g-dq9i42tRO-chatxgb) |
+| Code GPT |  | Code GPT that is able to generate code, push that to GitHub, auto-fix it, etc. Also, it deploys it for you in real-time automatically. | [Link](https://chat.openai.com/g/g-qd7UDCT6K-code-gpt) |
+| Theo Scholar |  | Expert in Bible discussions via Luther, Keller, Lewis. | [Link](https://chat.openai.com/g/g-NRDaZP53n-theo-scholar) |
 | Ronpa-kun |  | I can refute anything | [Link](https://chat.openai.com/g/g-3hxXAJOHO-lun-po-kun) |
 | Visual Weather Artist GPT |  | Simply provide your location and our AI will create a unique artwork reflecting the current weather, time of day, and characteristics of your city | [Link](https://chat.openai.com/g/g-twUGxmpHv-visual-weather-artist-gpt) |
 | English Translation Expert |  | The highest level "English to Chinese" machine translation on the Internet | [Link](https://chat.openai.com/g/g-IZb9C11iR-ying-wen-fan-yi-zhuan-jia) |
