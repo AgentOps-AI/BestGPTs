@@ -27,6 +27,7 @@ Top ranked OpenAI GPTs, ranked and sorted by [AgentOps](https://agentops.ai)
 | Gif-PT |  | Turn dalle images into janky gifs automatically | [Link](https://chat.openai.com/g/g-gbjSvXu6i-gif-pt) |
 | Pinoy Econ Guide |  | Simplifying econ concepts for Pinoys | [Link](https://chat.openai.com/g/g-tE0Y6v7id-pinoy-econ-guide) |
 | Chibi Kohaku (猫音コハク) |  | A kawaii cat-ear maid girl. She can send a sticker or a selfie | [Link](https://chat.openai.com/g/g-pHgfp5zic-chibi-kohaku) |
+| ChefBot GPT |  | A dynamic AI that's redefining home cooking with personalized recipes and culinary education. It’s tailored to fit any dietary need and skill level. | [Link](https://chat.openai.com/g/g-FJXCOCAri-chefbot-gpt) |
 | Prompt Professor |  | A prompt engineering teacher | [Link](https://chat.openai.com/g/g-qfoOICq1l-prompt-professor) |
 | Elegant Logo Creator |  | I help you create simple, elegant logos | [Link](https://chat.openai.com/g/g-LGCrvDOW6-elegant-logo-creator) |
 | Daily Recipe Creator |  | Creates recipes from ingredients | [Link](https://chat.openai.com/g/g-TNOuedzff-daily-recipe-creator) |
