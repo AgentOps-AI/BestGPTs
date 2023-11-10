@@ -14,6 +14,7 @@ Top ranked OpenAI GPTs, ranked and sorted by [AgentOps](https://agentops.ai)
 | BabyAgi.txt |  | Step by Step task manager that automatically saves to a .txt file | [Link](https://chat.openai.com/g/g-lzbeEOr9Y-babeagi) |
 | Auto Agent - fladdict |  | No-code Auto Agent Prompting | [Link](https://chat.openai.com/g/g-aSCBrpxum-auto-agent-fladdict) |
 | Grimoire |  | Coding Wizard - 100x Engineer. Build a website with a sentence. Built for a new era of creativity: Prompt-gramming | [Link](https://chat.openai.com/g/g-n7Rs0IK86-grimoire) |
+| Minimal Logo |  | Simplistic logo design helper. | [Link](https://chat.openai.com/g/g-50QxrS0Pd-minimal-logo) |
 | Athena |  | A witty robot philosopher from 2521 | [Link](https://chat.openai.com/g/g-SNLCL5HGB-athena) |
 | ChatXGB |  | GPT chatbot that helps you with technical questions related to XGBoost algorithm and library | [Link](https://chat.openai.com/g/g-dq9i42tRO-chatxgb) |
 | Code GPT |  | Code GPT that is able to generate code, push that to GitHub, auto-fix it, etc. Also, it deploys it for you in real-time automatically. | [Link](https://chat.openai.com/g/g-qd7UDCT6K-code-gpt) |
