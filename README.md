@@ -24,6 +24,8 @@ Top ranked OpenAI GPTs, ranked and sorted by [AgentOps](https://agentops.ai)
 | Ronpa-kun |  | I can refute anything | [Link](https://chat.openai.com/g/g-3hxXAJOHO-lun-po-kun) |
 | Visual Weather Artist GPT |  | Simply provide your location and our AI will create a unique artwork reflecting the current weather, time of day, and characteristics of your city | [Link](https://chat.openai.com/g/g-twUGxmpHv-visual-weather-artist-gpt) |
 | English Translation Expert |  | The highest level "English to Chinese" machine translation on the Internet | [Link](https://chat.openai.com/g/g-IZb9C11iR-ying-wen-fan-yi-zhuan-jia) |
+| Tweet X-aminer |  | Insights into Twitter's algorithm with a hint of humor. | [Link](https://chat.openai.com/g/g-5KjRDfGZ1) |
+| Agentcy (beta) |  | Autonomous creative agency. Find product market fit, overcome plateaus, or seek new paths to growth. | [Link](https://chat.openai.com/g/g-B29g6v91R-agentcy-beta) |
 | Gif-PT |  | Turn dalle images into janky gifs automatically | [Link](https://chat.openai.com/g/g-gbjSvXu6i-gif-pt) |
 | Pinoy Econ Guide |  | Simplifying econ concepts for Pinoys | [Link](https://chat.openai.com/g/g-tE0Y6v7id-pinoy-econ-guide) |
 | Chibi Kohaku (猫音コハク) |  | A kawaii cat-ear maid girl. She can send a sticker or a selfie | [Link](https://chat.openai.com/g/g-pHgfp5zic-chibi-kohaku) |
