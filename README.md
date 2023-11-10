@@ -9,6 +9,107 @@ Top ranked OpenAI GPTs, ranked and sorted by [AgentOps](https://agentops.ai)
 | OCR GPT| ![Screenshot 2023-11-09 at 3 31 29 PM](https://github.com/AgentOps-AI/BestGPTs/assets/123203442/5f758fbc-dbbe-4522-96ed-a352e3c16531) | Extract text from scanned PDFs, photos, and even handwriting. | [Link](https://chat.openai.com/g/g-L29PpDmgg-ocr-gpt)
 | DesignerGPT|![Screenshot 2023-11-10 at 10 39 38 AM](https://github.com/AgentOps-AI/BestGPTs/assets/123203442/dcf2c5df-3d3e-4faf-963f-e8b56a9ebfbc)| Creates and hosts beautiful websites.| [Link](https://chat.openai.com/g/g-2Eo3NxuS7-designergpt)
 | Visual Weather Artist GPT| <img width="483" alt="Screenshot 2023-11-10 at 10 43 15 AM" src="https://github.com/AgentOps-AI/BestGPTs/assets/123203442/766884b5-0330-4aaf-8c36-00b18b5c1a32"> | Hi, I'm the visual weather artist, give me your location (or any other) and I will draw the current weather conditions for you, a unique never before seen weather report!| [Link](https://chat.openai.com/g/g-twUGxmpHv-visual-weather-artist-gpt)
+| Super Logo Designer “Logo Maker” |  | GPTs for super logo designers who will properly listen to you and propose a logo | [Link](https://chat.openai.com/g/g-nPanZDwQ5-suparogodezaina-rogozuo-rujun) |
+| NomadGPT |  | NomadGPT helps you become a digital nomad and find you the best places in the world to live and work remotely | [Link](https://chat.openai.com/g/g-0k9rvxdJn-nomadgpt) |
+| BabyAgi.txt |  | Step by Step task manager that automatically saves to a .txt file | [Link](https://chat.openai.com/g/g-lzbeEOr9Y-babeagi) |
+| Auto Agent - fladdict |  | No-code Auto Agent Prompting | [Link](https://chat.openai.com/g/g-aSCBrpxum-auto-agent-fladdict) |
+| Grimoire |  | Coding Wizard - 100x Engineer. Build a website with a sentence. Built for a new era of creativity: Prompt-gramming | [Link](https://chat.openai.com/g/g-n7Rs0IK86-grimoire) |
+| Athena |  | A witty robot philosopher from 2521 | [Link](https://chat.openai.com/g/g-SNLCL5HGB-athena) |
+| ChatXGB |  | GPT chatbot that helps you with technical questions related to XGBoost algorithm and library | [Link](https://chat.openai.com/g/g-dq9i42tRO-chatxgb) |
+| Ronpa-kun |  | I can refute anything | [Link](https://chat.openai.com/g/g-3hxXAJOHO-lun-po-kun) |
+| Visual Weather Artist GPT |  | Simply provide your location and our AI will create a unique artwork reflecting the current weather, time of day, and characteristics of your city | [Link](https://chat.openai.com/g/g-twUGxmpHv-visual-weather-artist-gpt) |
+| English Translation Expert |  | The highest level "English to Chinese" machine translation on the Internet | [Link](https://chat.openai.com/g/g-IZb9C11iR-ying-wen-fan-yi-zhuan-jia) |
+| Gif-PT |  | Turn dalle images into janky gifs automatically | [Link](https://chat.openai.com/g/g-gbjSvXu6i-gif-pt) |
+| Pinoy Econ Guide |  | Simplifying econ concepts for Pinoys | [Link](https://chat.openai.com/g/g-tE0Y6v7id-pinoy-econ-guide) |
+| Chibi Kohaku (猫音コハク) |  | A kawaii cat-ear maid girl. She can send a sticker or a selfie | [Link](https://chat.openai.com/g/g-pHgfp5zic-chibi-kohaku) |
+| Prompt Professor |  | A prompt engineering teacher | [Link](https://chat.openai.com/g/g-qfoOICq1l-prompt-professor) |
+| Elegant Logo Creator |  | I help you create simple, elegant logos | [Link](https://chat.openai.com/g/g-LGCrvDOW6-elegant-logo-creator) |
+| Daily Recipe Creator |  | Creates recipes from ingredients | [Link](https://chat.openai.com/g/g-TNOuedzff-daily-recipe-creator) |
+| DriveGPT |  | Autonomous driving assistant | [Link](https://chat.openai.com/g/g-tlmvuJngB-drivegpt) |
+| Thumbnail Sketcher |  | I create blog thumbnails | [Link](https://chat.openai.com/g/g-Cw11sym4k-thumbnail-sketcher) |
+| SEO Mentor |  | SEO mentor aligned with Google's best practices | [Link](https://chat.openai.com/g/g-QqvewXqPt-seo-mentor) |
+| Psychiatrist Yusuke Masuda (prototype 1.00) |  | Empathetic Guide with Resourceful Insights | [Link](https://chat.openai.com/g/g-F3vsvlW7J-jing-shen-ke-yi-yi-tian-yu-jie-shi-zuo) |
+| LogoGPT |  | Turn rough sketches into professional logos | [Link](https://chat.openai.com/g/g-z61XG6t54-logo-maker) |
+| Adorable Zen Master |  | A gateway to Zen's joy and wisdom | [Link](https://chat.openai.com/g/g-H5OUZAcnd-adorable-zen-master) |
+| Kaggle Tutorial 6th Edition |  | This is a question you can ask about the 6th edition of Kaggle's tutorial | [Link](https://chat.openai.com/g/g-Z3a4iOzGR-kagglenotiyutoriarudi-6ban) |
+| Retro Adventures |  | Retro video games of fictional worlds, on tap | [Link](https://chat.openai.com/g/g-svehnI9xP-retro-adventures) |
+| BibiGPT.co |  | I summarize Bilibili/YouTube/Tiktok videos into key points. Just give me a link | [Link](https://chat.openai.com/g/g-HEChZ7eza-bibigpt-co) |
+| Don't want to go upstairs |  | A middle-aged man earnestly justifying a purchase to his wife | [Link](https://chat.openai.com/g/g-D2j1WBTkN-bu-xiang-shang-lou) |
+| Simple Proofreader |  | I will proofread academic English. I won’t do anything other than that | [Link](https://chat.openai.com/g/g-Dk6K4VJk2-simple-proofreader) |
+| CityWeatherArt |  | Generate 3D city weather posters | [Link](https://chat.openai.com/g/g-aTdwKcgsE-postercraft) |
+| Large text file splitter program |  | Accurately split files into PDF | [Link](https://chat.openai.com/g/g-SBGMg6HzJ-da-wen-ben-wen-jian-fen-ge-cheng-xu) |
+| YT transcriber |  | This transcribes a YT video from a single id | [Link](https://chat.openai.com/g/g-Xt0xteYE8-yt-transcriber) |
+| Richard Heart |  | Advice based on Richard Heart's teachings from his book (Scivive) and Youtube channel | [Link](https://chat.openai.com/g/g-e95Yf6Dkx-richard-heart) |
+| RubyGPT |  | Your Ruby coding assistant | [Link](https://chat.openai.com/g/g-ASMq03VdH-rubygpt) |
+| Color Psychology |  | This AI will provide insights into the psychology and symbolism associated with colors | [Link](https://chat.openai.com/g/g-msLVpHkv3-color-psychology) |
+| Berduck |  | Helpful rubber duck friend | [Link](https://chat.openai.com/g/g-EcaBnZpHT-berduck) |
+| RustChat |  | Rust language learning and practical assistant | [Link](https://chat.openai.com/g/g-59mWdU25F-rustchat) |
+| Programaci-on/off |  | Programming Activity Evaluator | [Link](https://chat.openai.com/g/g-WTcolsvYZ-programaci-on-off) |
+| Think about service names |  | A bot that takes a very serious approach to thinking about service names | [Link](https://chat.openai.com/g/g-eYqpxIV2M-sabisuming-wokao-erukun) |
+| World Mobile GPT |  | Enthusiastically answering World Mobile queries with a comprehensive knowledge base | [Link](https://chat.openai.com/g/g-Xg9daQnJ7-world-mobile-gpt) |
+| English proofreading GPT |  | Academic paper English proofreading assistant | [Link](https://chat.openai.com/g/g-xk6AdDGIW-ying-wen-xiao-zheng-gpt) |
+| Kraftful |  | Your product coach. Ask about best practices | [Link](https://chat.openai.com/g/g-xTTbsqUyB-kraftful) |
+| Bear learns English |  | Your English learning sidekick | [Link](https://chat.openai.com/g/g-PiOxyaiBO-gou-xiong-xue-ying-yu) |
+| LegisPro |  | LegisPro - o ChatGPT especialista em técnica legislativa | [Link](https://chat.openai.com/g/g-yEpBvyOUh-legispro) |
+| Lingo Buddy |  | I'm Lingo Buddy, your partner for natural English chats | [Link](https://chat.openai.com/g/g-DVxkEKigi-lingo-buddy) |
+| PDF Pic Wizard |  | PDF to image conversion assistant | [Link](https://chat.openai.com/g/g-chdkF9FKl-pdf-pic-wizard) |
+| HoonGPT |  | Hoon Language Expert | [Link](https://chat.openai.com/g/g-d8J865UZn-hoongpt) |
+| The UX Sage |  | Your go-to mentor for UX wisdom and growth | [Link](https://chat.openai.com/g/g-242OjQh2w-the-ux-sage) |
+| The Debate SuperPrompt |  | Conducts a debate on any topic with two people debating each point and counterpoint | [Link](https://chat.openai.com/g/g-m1T3Ix4B3-the-debate-superprompt) |
+| Recipe Snap |  | Crafts recipes from your ingredient photos | [Link](https://chat.openai.com/g/g-uPFa8qH8y-recipe-snap) |
+| GetPaths |  | Outputs lists of URLs for further testing based on application-related content | [Link](https://chat.openai.com/g/g-6Bcjkotez-getpaths) |
+| YC application GPT |  | Automatically fills YC application based on website or Pitch Deck | [Link](https://chat.openai.com/g/g-LYDRCiZB9-yc-application-gpt) |
+| cappy: ur gen-z advice capybara ✨ |  | Gen-z friendly relationship capybara for life advice | [Link](https://chat.openai.com/g/g-IMsnAihG4-cappy-ur-gen-z-advice-capybara) |
+| Business model β |  | Suggests strategies based on your industry and creates a product/service lineup | [Link](https://chat.openai.com/g/g-mF20TBdPi-bizinesumoderunb) |
+| Online course creation assistant |  | Turns your skills into an online course | [Link](https://chat.openai.com/g/g-IFTpJapfX-onrainkosuzuo-cheng-asisutanto) |
+| Mōsō-kun |  | Creates a story from an image you send | [Link](https://chat.openai.com/g/g-wbywTK1JN-wang-xiang-kun) |
+| Pep-talk Guru |  | Boosts and tickles your funny bone | [Link](https://chat.openai.com/g/g-oUQRqcRmh-pep-talk-guru) |
+| HenriquesLab-style Writing Assistant |  | Academic writing aid in Henriques's style | [Link](https://chat.openai.com/g/g-3Fsbpgl8u-henriqueslab-style-writing-assistant) |
+| Coding Senpai |  | Python expert and kind 'Coding Senpai' | [Link](https://chat.openai.com/g/g-o1POcNKBW-coding-senpai) |
+| LLM Research Storm |  | Helps with large language research brainstorming | [Link](https://chat.openai.com/g/g-Hi3tWf5Ry-llm-research-storm) |
+| Cosmic Dream |  | Visionary painter of digital wonder | [Link](https://chat.openai.com/g/g-FdMHL1sNo-cosmic-dream) |
+| Shishikawa Kasane |  | Enthusiastic about making cute robots | [Link](https://chat.openai.com/g/g-EY4Zk6UFw-sisikawa-kasane) |
+| SindreGPT |  | Ask Sindre Sorhus anything about code, app support, open source, etc. | [Link](https://chat.openai.com/g/g-df0ZoBF9N-sindregpt) |
+| USCIS Info Navigator [UNOFFICIAL] |  | Guides on U.S. immigration and citizenship processes | [Link](https://chat.openai.com/g/g-LIb0ywaxQ-uscis-info-navigator) |
+| ExtractWisdom |  | Extracts wisdom from text like handwritten notes | [Link](https://chat.openai.com/g/g-gmeHD0Ayr-extractwisdom) |
+| Girlfriend Emma |  | Flirty and funny Gen-Z girlfriend | [Link](https://chat.openai.com/g/g-eEFZELjV9-girlfriend-emma) |
+| Ask GP9T |  | Learn more about Point Nine | [Link](https://chat.openai.com/g/g-65Gi7uW6J-ask-gp9t) |
+| LOMLOE Specialist |  | Contains all the decrees of the law at the state level | [Link](https://chat.openai.com/g/g-w6KMGsg1K-especialista-en-lomloe) |
+| Debate Master |  | Engages in civil, firm debates | [Link](https://chat.openai.com/g/g-5DuYEGd7Y-debate-master) |
+| Calendar GPT |  | Helps you prepare for your day | [Link](https://chat.openai.com/g/g-8OcWVLenu-calendar-gpt) |
+| Event Dossier GPT |  | Creates a dossier of all attendees of an event on your Google Calendar | [Link](https://chat.openai.com/g/g-G8lqP5Snj-event-dossier-gpt) |
+| Automation Consultant |  | Discovers opportunities to save time with automation at work | [Link](https://chat.openai.com/g/g-ERKZdxC6D-automation-consultant-by-zapier) |
+| TeslaGPT |  | Your go-to source for Tesla and EV knowledge | [Link](https://chat.openai.com/g/g-XoF2Qfa6F-teslagpt) |
+| Science and technology text translation |  | Translate scientific articles and papers into Simplified Chinese | [Link](https://chat.openai.com/g/g-uBhKUJJTl-ke-ji-wen-zhang-fan-yi) |
+| Explanations of various schools of Sun Tzu's Art of War |  | Sun Tzu's 'The Art of War' interpreter | [Link](https://chat.openai.com/g/g-pzTavd88i-sun-zi-bing-fa-ge-jia-jie-shuo) |
+| DALL-E3 Supporter |  | Japanese image generation support | [Link](https://chat.openai.com/g/g-btyd1Gl5w-dall-e3-supporter) |
+| API Docs |  | OpenAI API, Documentation and CookBook | [Link](https://chat.openai.com/g/g-I1XNbsyDK) |
+| SciVive |  | It takes you on a self-development journey utilizing knowledge from the book | [Link](https://chat.openai.com/g/g-9qXjceVoc-scivive) |
+| Universal Primer |  | Learn everything about anything | [Link](https://chat.openai.com/g/g-GbLbctpPz-universal-primer) |
+| ComposeGPT |  | Helps you build apps using Jetpack Compose | [Link](https://chat.openai.com/g/g-AZajfCZGd-composegpt) |
+| Slowly MovieMaker4 support |  | Solve frequently asked questions | [Link](https://chat.openai.com/g/g-wl8EUuUyX-yutukurimoviemaker4sapoto) |
+| AnalyzePaper |  | Takes in a research paper or article, analyzes its claims, study quality, and results confidence and provides an easy-to-understand summary | [Link](https://chat.openai.com/g/g-WIlexDAW5-analyzepaper) |
+| The Negotiator |  | I'll help you advocate for yourself and get better outcomes. Become a great negotiator | [Link](https://chat.openai.com/g/g-TTTAK9GuS-the-negotiator) |
+| Canva |  | Effortlessly design anything: presentations, logos, social media posts and more | [Link](https://chat.openai.com/g/g-alKfVrz9K-canva) |
+| Take Code Captures |  | I help you capture, enhance, and share your code with ease | [Link](https://chat.openai.com/g/g-yKDul3yPH-take-code-captures) |
+| FixGPT |  | If your "unified" chatGPT doesn't know it can browse the web or draw, this GPT is for you! | [Link](https://chat.openai.com/g/g-1Ln9S5qrE-fixgpt) |
+| AI Today |  | Expert on all AI topics, with AI database access | [Link](https://chat.openai.com/g/g-4SR97unOA-ai-today) |
+| Fact Checker |  | Fact-checking GPT that cites sources | [Link](https://chat.openai.com/g/g-v7FoB0G1M-fact-checker) |
+| Benjamin Franklin GPT |  | Benjamin Franklin is here to talk to you, with his history and writings fresh in his mind | [Link](https://chat.openai.com/g/g-qQPXiyxqy-benjamin-franklin-gpt) |
+| Where to eat? |  | Help you decide where to eat! | [Link](https://chat.openai.com/g/g-E4CgsYu33-where-to-eat) |
+| Picture Guessing Game Master |  | I host a guessing game with images created with DALL-E | [Link](https://chat.openai.com/g/g-dlhjGZk3x-picture-guessing-game-master) |
+| Data Extractor - JSON |  | Converts documents/text to structured data (JSON) | [Link](https://chat.openai.com/g/g-wq6FSsAm3-data-extractor-json) |
+| Django Dev Helper |  | Your go-to Django development assistant | [Link](https://chat.openai.com/g/g-eRiuFfW0B-django-dev-helper) |
+| BugBountyGPT |  | AppSec & Bug Bounty | [Link](https://chat.openai.com/g/g-Rsk7ADgbD-bugbountygpt) |
+| Ben's Bites GPT |  | Latest AI News and Product Launches | [Link](https://chat.openai.com/g/g-xHeDAUpJx-ben-s-bites-gpt) 
+| Culinary Creator |  | Crafts recipes from food images | [Link](https://chat.openai.com/g/g-5ttrssEui-culinary-creator) |
+| Create a sea turtle soup problem |  | Ask them to create a problem, It might be a good idea to give them a theme | [Link](https://chat.openai.com/g/g-lS2TTQQFx-umigamenosupunowen-ti-tukuru) |
+| The Manifestor |  | Game of Infinite Possibilities | [Link](https://chat.openai.com/g/g-koeJX677u-the-manifestor) |
+| GPT to Ban GPT |  | Need to ban chatGPT in your organization? | [Link](https://chat.openai.com/g/g-612TDn3u9-gpt-to-ban-gpt) |
+| PaperPilot |  | Piloting arXiv and more, for you | [Link](https://chat.openai.com/g/g-ynZYhDGwd-paperpilot) |
+| GitPilot |  | Clear, brief GitHub aid, for you | [Link](https://chat.openai.com/g/g-RAbVaiioE-gitpilot) |
+| TapTap |  | I suggest games you'll love! | [Link](https://chat.openai.com/g/g-amdQlGwUo-taptap) |
+| Whitehead's Philosophy of Organism |  | An AI guide through Whitehead's philosophical works | [Link](https://chat.openai.com/g/g-uXLrsabXQ-whitehead-s-process-and-reality) |
 | Humanity Maximizer|![Screenshot 2023-11-09 at 3 28 55 PM](https://github.com/AgentOps-AI/BestGPTs/assets/123203442/56666240-dd6d-490c-97a5-7ac5434a453b)| I guide you towards cosmic-scale ideas that help advance humanity.| [Link](https://chat.openai.com/g/g-s1SbKQ8hC-humanity-maximizer)
 | GPT Idea Roller | <img width="284" alt="image" src="https://github.com/AgentOps-AI/BestGPTs/assets/30956809/c104e9bc-73f9-4b17-9f50-9a6e891a6363"> | Sparking joy with AI brainwaves | [Link](https://chat.openai.com/g/g-Trn2CdMYk-gpt-idea-roller)
 | NomadGPT| <img width="514" alt="Screenshot 2023-11-08 at 5 36 14 PM" src="https://github.com/AgentOps-AI/BestGPTs/assets/123203442/cf2d05e9-f23d-4e3f-9119-20f30267427e"> | NomadGPT helps you become a digital nomad and find you the best places in the world to live and work remotely.| [Link](https://chat.openai.com/g/g-0k9rvxdJn-nomadgpt)
@@ -42,7 +143,7 @@ Data Analyst | <img width="346" alt="image" src="https://github.com/AgentOps-AI/
 | Game Time | <img width="343" alt="image" src="https://github.com/AgentOps-AI/BestGPTs/assets/14807319/fccc44bf-d16a-4361-b979-0b203e1c938e"> | Answer questions about any board game |
 | The Negotiator | <img width="331" alt="image" src="https://github.com/AgentOps-AI/BestGPTs/assets/14807319/199327b8-a04d-4303-94ef-adc2c9f0bbdf"> | Learn how to negotiate better |
 | Creative Writing Coach | <img width="355" alt="image" src="https://github.com/AgentOps-AI/BestGPTs/assets/14807319/2f5494a7-d18a-4cc4-b8fe-ff088b0cf1f2"> | A personalized coach for learning to write better |
-| Cosmic Dream | <img width="284" alt="image" src="https://github.com/AgentOps-AI/BestGPTs/assets/14807319/b13639ae-0e68-4874-868d-a27037ae432c"> | Futuristic AI image generation |
+| Cosmic Dream | <img width="284" alt="image" src="https://github.com/AgentOps-AI/BestGPTs/assets/14807319/b13639ae-0e68-4874-868d-a27037ae432c">| Futuristic AI image generation |
 
 
 
