@@ -152,6 +152,7 @@ Data Analyst | <img width="346" alt="image" src="https://github.com/AgentOps-AI/
 | The Negotiator | <img width="331" alt="image" src="https://github.com/AgentOps-AI/BestGPTs/assets/14807319/199327b8-a04d-4303-94ef-adc2c9f0bbdf"> | Learn how to negotiate better |
 | Creative Writing Coach | <img width="355" alt="image" src="https://github.com/AgentOps-AI/BestGPTs/assets/14807319/2f5494a7-d18a-4cc4-b8fe-ff088b0cf1f2"> | A personalized coach for learning to write better |
 | Cosmic Dream | <img width="284" alt="image" src="https://github.com/AgentOps-AI/BestGPTs/assets/14807319/b13639ae-0e68-4874-868d-a27037ae432c">| Futuristic AI image generation |
+| Image Editor | | I can help with basic image editing operations - crop, resize, scale, rotate, convert between formats etc. You can either upload a single image or a batch of images | [Link](https://chat.openai.com/g/g-WXEhiLIoP-image-editor) |
 
 
 
