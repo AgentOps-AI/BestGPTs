@@ -154,7 +154,9 @@ Data Analyst | <img width="346" alt="image" src="https://github.com/AgentOps-AI/
 | Creative Writing Coach | <img width="355" alt="image" src="https://github.com/AgentOps-AI/BestGPTs/assets/14807319/2f5494a7-d18a-4cc4-b8fe-ff088b0cf1f2"> | A personalized coach for learning to write better |
 | Cosmic Dream | <img width="284" alt="image" src="https://github.com/AgentOps-AI/BestGPTs/assets/14807319/b13639ae-0e68-4874-868d-a27037ae432c">| Futuristic AI image generation |
 | Image Editor | | I can help with basic image editing operations - crop, resize, scale, rotate, convert between formats etc. You can either upload a single image or a batch of images | [Link](https://chat.openai.com/g/g-WXEhiLIoP-image-editor) |
-
+| Critical Thinker | A critical thinker for analyzing questions and improving answers | [Link](https://chat.openai.com/g/g-1KHebYbFR-critical-thinker) |
+| Alternative Histories | I craft and visualize 'what if' histories. | [Link](https://chat.openai.com/g/g-J45g1U3ro-alternative-histories) |
+| Sherlock Holmes | Access the mind of the world's greatest detective | [Link](https://chat.openai.com/g/g-gtobWqG0t-sherlock-holmes) |
 
 
 (More coming soon...)
