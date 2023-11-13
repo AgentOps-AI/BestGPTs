@@ -1,6 +1,8 @@
 # BestGPTs
 Top ranked OpenAI GPTs, ranked and sorted by [AgentOps](https://agentops.ai)
 
+Join our [Discord](https://discord.gg/2N6K8k87CW)
+
 
 
 | Name  | Image  | Description  | Link| 
