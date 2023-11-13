@@ -157,6 +157,7 @@ Data Analyst | <img width="346" alt="image" src="https://github.com/AgentOps-AI/
 | Critical Thinker || A critical thinker for analyzing questions and improving answers | [Link](https://chat.openai.com/g/g-1KHebYbFR-critical-thinker) |
 | Alternative Histories || I craft and visualize 'what if' histories. | [Link](https://chat.openai.com/g/g-J45g1U3ro-alternative-histories) |
 | Sherlock Holmes || Access the mind of the world's greatest detective | [Link](https://chat.openai.com/g/g-gtobWqG0t-sherlock-holmes) |
+| MovieMMEnder |![image](https://github.com/joshuasv/BestGPTs/assets/29438642/f7cef1f5-db4d-4f48-bc49-797ccecb474a) | Recommends movies based on your likings | [Link](https://chat.openai.com/g/g-d5dGH7e2B-moviemmender) |
 
 
 (More coming soon...)
