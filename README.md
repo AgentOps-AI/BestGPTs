@@ -157,5 +157,5 @@ Data Analyst | <img width="346" alt="image" src="https://github.com/AgentOps-AI/
 | GitPilot |  | Clear, brief GitHub aid, for you | [Link](https://chat.openai.com/g/g-RAbVaiioE-gitpilot) |
 | TapTap |  | I suggest games you'll love! | [Link](https://chat.openai.com/g/g-amdQlGwUo-taptap) |
 | Whitehead's Philosophy of Organism |  | An AI guide through Whitehead's philosophical works | [Link](https://chat.openai.com/g/g-uXLrsabXQ-whitehead-s-process-and-reality) |
-
+| SurveyDone |  | AI survey generator / builder / editor - hosting by surveydone.com | [Link](https://chat.openai.com/g/g-uB7BUrjRI-survey-done) |
 (More coming soon...)
