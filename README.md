@@ -48,7 +48,7 @@ Join our [Discord](https://discord.gg/2N6K8k87CW)
 | Mid-century Future  | <img width="213" alt="image" src="https://github.com/AgentOps-AI/BestGPTs/assets/14807319/96130c00-4ee9-48b8-8ce8-540daca1c633"> | AI interior decorator that produces futuristic room decor photos |
 | Autodeck  | <img width="157" alt="image" src="https://github.com/AgentOps-AI/BestGPTs/assets/14807319/5145e7ad-6ddc-45ae-83c1-b96b49e71850"> | Turn any presentation into a compelling slide deck |
 | DALLE | <img width="297" alt="image" src="https://github.com/AgentOps-AI/BestGPTs/assets/14807319/4dff910e-e3ff-4b3a-a1dc-23796911fa1c"> | Generate AI photos with DALLE 3|
-Data Analyst | <img width="346" alt="image" src="https://github.com/AgentOps-AI/BestGPTs/assets/14807319/31a92a7e-dcd1-47a8-bdf4-eba4a5d40501"> | Upload any Excel document, CSV, or data file for analysis |
+| Data Analyst | <img width="346" alt="image" src="https://github.com/AgentOps-AI/BestGPTs/assets/14807319/31a92a7e-dcd1-47a8-bdf4-eba4a5d40501"> | Upload any Excel document, CSV, or data file for analysis |
 | Game Time | <img width="343" alt="image" src="https://github.com/AgentOps-AI/BestGPTs/assets/14807319/fccc44bf-d16a-4361-b979-0b203e1c938e"> | Answer questions about any board game |
 | The Negotiator | <img width="331" alt="image" src="https://github.com/AgentOps-AI/BestGPTs/assets/14807319/199327b8-a04d-4303-94ef-adc2c9f0bbdf"> | Learn how to negotiate better |
 | Creative Writing Coach | <img width="355" alt="image" src="https://github.com/AgentOps-AI/BestGPTs/assets/14807319/2f5494a7-d18a-4cc4-b8fe-ff088b0cf1f2"> | A personalized coach for learning to write better |
@@ -162,5 +162,7 @@ Data Analyst | <img width="346" alt="image" src="https://github.com/AgentOps-AI/
 | Instant Pot Chef |  | Friendly and casual Instant Pot recipe advisor with Calorie Count | [Link](https://chat.openai.com/g/g-PDoYF1w1h-instant-pot-chef)
 | Air Fryer Chef |  | Expert in air fryer recipes with detailed nutritional and measurement info | [Link](https://chat.openai.com/g/g-X7lB1U6qS-air-fryer-chef)
 | MovieMMEnder |![image](https://github.com/joshuasv/BestGPTs/assets/29438642/f7cef1f5-db4d-4f48-bc49-797ccecb474a) | Recommends movies based on your likings | [Link](https://chat.openai.com/g/g-d5dGH7e2B-moviemmender) |
+| SurveyDone |  | AI survey generator / builder / editor - hosting by surveydone.com | [Link](https://chat.openai.com/g/g-uB7BUrjRI-survey-done) |
+
 
 (More coming soon...)
