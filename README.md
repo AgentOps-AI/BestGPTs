@@ -159,5 +159,7 @@ Data Analyst | <img width="346" alt="image" src="https://github.com/AgentOps-AI/
 | GitPilot |  | Clear, brief GitHub aid, for you | [Link](https://chat.openai.com/g/g-RAbVaiioE-gitpilot) |
 | TapTap |  | I suggest games you'll love! | [Link](https://chat.openai.com/g/g-amdQlGwUo-taptap) |
 | Whitehead's Philosophy of Organism |  | An AI guide through Whitehead's philosophical works | [Link](https://chat.openai.com/g/g-uXLrsabXQ-whitehead-s-process-and-reality) |
+| Instant Pot Chef |  | Friendly and casual Instant Pot recipe advisor with Calorie Count | [Link](https://chat.openai.com/g/g-PDoYF1w1h-instant-pot-chef)
+| Air Fryer Chef |  | Expert in air fryer recipes with detailed nutritional and measurement info | [Link](https://chat.openai.com/g/g-X7lB1U6qS-air-fryer-chef)
 
 (More coming soon...)
